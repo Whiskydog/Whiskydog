@@ -6,7 +6,7 @@ Currently a Software Engineer at Ensolvers, shipping fullstack features across S
 
 Open to interesting collaborations and conversations on fullstack architecture, RAG, or design systems. If you're building something in that space, feel free to reach out.
 
-## Socials
+**Reach me at:**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alan-ariel-varde) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alan.varde@gmail.com)
 
@@ -34,6 +34,8 @@ Open to interesting collaborations and conversations on fullstack architecture, 
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine&logoColor=black)
 
 ## Stats
+
+[![wakatime](https://wakatime.com/badge/user/3e94918e-499e-4858-afd8-6a588bf9681a.svg)](https://wakatime.com/@3e94918e-499e-4858-afd8-6a588bf9681a)
 
 <table>
   <tr>
